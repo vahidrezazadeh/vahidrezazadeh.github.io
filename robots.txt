@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vahidrezazadeh.github.io/sitemap.xml
